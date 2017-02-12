@@ -1,0 +1,3 @@
+Worker1_InProgress,<job>
+  <pauseForSeconds>1</pauseForSeconds>
+</job>

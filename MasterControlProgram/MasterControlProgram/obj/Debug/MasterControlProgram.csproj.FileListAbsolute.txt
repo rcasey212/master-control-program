@@ -1,0 +1,12 @@
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\MasterControlProgram\bin\Debug\MasterControlProgram.exe.config
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\MasterControlProgram\bin\Debug\MasterControlProgram.exe
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\MasterControlProgram\bin\Debug\MasterControlProgram.pdb
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\MasterControlProgram\bin\Debug\log4net.dll
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\MasterControlProgram\bin\Debug\RabbitMQ.Client.dll
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\MasterControlProgram\bin\Debug\Stateless.dll
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\MasterControlProgram\bin\Debug\log4net.xml
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\MasterControlProgram\bin\Debug\RabbitMQ.Client.xml
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\MasterControlProgram\bin\Debug\Stateless.xml
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\MasterControlProgram\obj\Debug\MasterControlProgram.csprojResolveAssemblyReference.cache
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\MasterControlProgram\obj\Debug\MasterControlProgram.exe
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\MasterControlProgram\obj\Debug\MasterControlProgram.pdb

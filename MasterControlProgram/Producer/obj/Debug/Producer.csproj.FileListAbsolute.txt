@@ -1,0 +1,9 @@
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\Producer\bin\Debug\Producer.exe.config
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\Producer\bin\Debug\Producer.exe
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\Producer\bin\Debug\Producer.pdb
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\Producer\bin\Debug\log4net.dll
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\Producer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\Producer\bin\Debug\log4net.xml
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\Producer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\Producer\obj\Debug\Producer.exe
+C:\Users\rcasey\Documents\GitRepos\mstar\users\rcasey\mcp\MasterControlProgram\Producer\obj\Debug\Producer.pdb
