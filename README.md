@@ -10,7 +10,7 @@ without having to deal with the plumbing of implementing the pattern.
 
 System architecture diagram
 ---------------------------
-![Master Control Program Arch Diagram](./docs/mcp-arch-diagram.svg)
+![Master Control Program Arch Diagram](https://cdn.rawgit.com/rcasey212/master-control-program/74dac65e/docs/mcp-arch-diagram.svg)
 
 Capabilities
 -----------------------------------------------------
