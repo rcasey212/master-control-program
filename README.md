@@ -41,7 +41,6 @@ This system takes dependencies on the following 3rd party software:
 reasons:
     * It runs on both Linux and Windows
     * It is easy to use
-    * It is already [supported by the Morningstar core services team](https://mswiki.morningstar.com/pages/viewpage.action?pageId=131959800)
     * It can be run in a [Docker container](https://hub.docker.com/_/rabbitmq/) for ease of local development.
 
 ```bash
